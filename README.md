@@ -4,3 +4,4 @@
 
 Blanket for Avatars
 ⚠ Requires VRCFury: https://vrcfury.com/download
+[](./Packages/com.mmmaellon.avatar-blankie/README.MD)
